@@ -1,1 +1,1 @@
-install.packages(c("readr", "jsonlite", "rvest", "pdftools", "mongolite", "dplyr"))
+install.packages(c("readr", "jsonlite", "rvest", "pdftools", "mongolite", "dplyr", "lubridate"))
